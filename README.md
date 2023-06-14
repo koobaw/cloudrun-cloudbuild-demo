@@ -40,7 +40,7 @@ $ node app.js
 
 ![image](https://kodekloud.com/community/uploads/db1265/original/3X/5/4/54a6849f3f7e0268cd73e356bd49fe5b89807851.png)
 
-After starting successfully, verify the app at [http://localhost:8080/ 1](http://localhost:8080/) (make sure port 8080 is free before running our application). You are  supposed to see the “Hello World” message on the application response.
+After starting successfully, verify the app at [http://localhost:8080/](http://localhost:8080/) (make sure port 8080 is free before running our application). You are  supposed to see the “Hello World” message on the application response.
 
 ### 2. Dockerize our application
 
