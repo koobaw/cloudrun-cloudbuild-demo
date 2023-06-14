@@ -78,7 +78,7 @@ Run docker image and map port 8080 from host network to port 8080 in container
 $ docker container run -dt --name node-hello-world -p 8080:8080 node-hello-world
 ```
 
-Congrats, you’re successfully dockerized your node.js application and run it, verify the result at [http://localhost:8080/ 1](http://localhost:8080/), you should also see the “Hello World” response message.
+Congrats, you’re successfully dockerized your node.js application and run it, verify the result at [http://localhost:8080/](http://localhost:8080/), you should also see the “Hello World” response message.
 
 Add a .gitignore with the content below to ignore the *node_modules* folder before pushing codes to the repository.
 
