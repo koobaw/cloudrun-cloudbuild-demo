@@ -1,0 +1,22 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/go-ad/node-hello-world.git"
+  },
+  "bugs": {
+    "url": "https://github.com/go-ad/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/go-ad/node-hello-world#readme"
+}
